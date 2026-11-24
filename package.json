@@ -1,0 +1,10 @@
+{
+  "name": "how-many-tabs-do-you-have-open",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
