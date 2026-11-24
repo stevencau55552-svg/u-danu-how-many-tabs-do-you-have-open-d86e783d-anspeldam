@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/stevencau55552-svg/u-danu-how-many-tabs-do-you-have-open-d86e783d-anspeldam/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/stevencau55552-svg/u-danu-how-many-tabs-do-you-have-open-d86e783d-anspeldam/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
+
 # How Many Tabs Do You Have Open?
 
 make.fun entry — **@anspeldam**
